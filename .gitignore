@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyt
+*.pyd
+
+# Virtual environments
+.env
+venv/
+env/
+.venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python package / cache
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+__pypackages__/
+
+# SQLite (if used)
+*.sqlite3
+*.db
+
+# Pytest cache
+.pytest_cache/
